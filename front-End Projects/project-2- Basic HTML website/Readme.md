@@ -1,4 +1,4 @@
-https://roadmap.sh/projects/basic-html-website <br><br>
+project URL: https://roadmap.sh/projects/basic-html-website <br><br>
 # Simple HTML Website<br><br>
 This is a basic HTML-only website with multiple pages. The website has the following pages:<br>
 - Homepage<br>
